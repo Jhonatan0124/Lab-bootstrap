@@ -1,0 +1,17 @@
+.divider {
+    border-left: 1.5px solid #ccc;
+}
+.titulo {
+    font-size: 18px;
+    font-weight: bold;
+    color: #207568;
+}
+.subtitulo {
+    font-size: 40px;
+    font-weight: bold;
+    color: #003049;
+}
+.texto {
+    font-size: 18px;
+    color: #6c757d;
+}
